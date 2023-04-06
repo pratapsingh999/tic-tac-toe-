@@ -1,11 +1,13 @@
 import React from 'react'
-import Message from './message'
+import Board from './TicTacToeGame/Board'
+// import Message from './message'
 import './App.css';
 
 function App() {
   return ( 
     <div>
-    <Message/>
+      <Board/>
+    {/* <Message/> */}
     </div>
   );
 }
