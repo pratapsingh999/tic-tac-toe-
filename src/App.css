@@ -4,6 +4,8 @@
     align-items: center;
 }
 .square{
+    background-color: aqua;
+    border-radius: 5rem;
     border: 3px solid;
     height: 100px;
     width: 100%;

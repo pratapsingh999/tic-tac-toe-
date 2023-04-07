@@ -12,7 +12,7 @@ const Square = (props) => {
         //    alignContent:"center",
         //     }}
             className="square">
-        <h5 className>{props.value}</h5>
+        <h1 className>{props.value}</h1>
        </div>
     );  
 }
